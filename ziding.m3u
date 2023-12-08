@@ -22,7 +22,7 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000290630/index.
 http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/纬来体育台" group-title="体育频道",纬来体育台
 http://cloud.yumixiu768.com/tmp/123.m3u8
-#EXTINF:-1 tvg-id="安徽综艺体育" tvg-name="安徽综艺体育" tvg-logo="" group-title="体育频道",安徽综艺体育
+#EXTINF:-1 tvg-id="安徽综艺体育" tvg-name="安徽综艺体育" tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/安徽卫视" group-title="体育频道",安徽综艺体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd？
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="" group-title="体育频道",咪咕体育
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
@@ -50,13 +50,31 @@ http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Dric足球" tvg-name="Dric足球" tvg-logo="" group-title="体育频道",Dric足球
 http://livetv.ktv.zone/23/play.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/民视新闻台" tvg-id="民视新闻台" tvg-name="民视新闻台" group-title="宝岛台湾",民视新闻台
-https://epg.pw/stream/f866e23f6d29ceb37ff1601f738e836c48e8913625622fcbb104ddb29fea454b.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/三立新闻台" tvg-id="三立新闻台" tvg-name="三立新闻台" group-title="宝岛台湾",三立新闻台
-https://epg.pw/stream/043e9ba5a69ed473708efc931ff9b35590d90f03f45bbeabe1899ef448ee59c6.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/东森新闻台" tvg-id="东森新闻台" tvg-name="东森新闻台" group-title="宝岛台湾",东森新闻台
-https://epg.pw/stream/0c1a2def94ba956a1cd2a6bd068abf307d3bdcafd911e111f88acc295a76b6e1.m3u8
-#EXTINF:-1,tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/中视新闻" tvg-id="中视新闻" tvg-name="中视新闻" group-title="宝岛台湾",中视新闻
-https://epg.pw/stream/a4ef46ca5a7026f79b4424642e6e0b1fa69ae93007284077e53ea607ddd351b9.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/台视新闻台" tvg-id="台视新闻台" tvg-name="台视新闻台" group-title="宝岛台湾",台视新闻台
-https://epg.pw/stream/4acb9a6c8a472aac28a3fd615726607ef653aba1ec1bd47a4b743365841661b9.m3u8
+#EXTINF:-1 tvg-id="J2香港台" tvg-name="J2香港台" tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/J2" group-title="宝岛与明珠",J2香港台
+http://r.jdshipin.com/ndGgS
+#EXTINF:-1 tvg-id="香港32台" tvg-name="香港32台" tvg-logo="http://nas.okayweb.cn:3011/tb/RTHK32.png" group-title="宝岛与明珠",香港32台
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="香港33台" tvg-name="香港33台" tvg-logo="http://nas.okayweb.cn:3011/tb/RTHK33.png" group-title="宝岛与明珠",香港33台
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="香港34台" tvg-name="香港34台" tvg-logo="http://nas.okayweb.cn:3011/tb/RTHK34.png" group-title="宝岛与明珠",香港34台
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="v.tools.yigechengzi.pro/prod/api/v1/tvg/logo/TVBS" group-title="宝岛与明珠",TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="v.tools.yigechengzi.pro/prod/api/v1/tvg/logo/TVBS" group-title="宝岛与明珠",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 tvg-id="东森新闻美洲台" tvg-name="东森新闻美洲台" tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/东森新闻台" group-title="宝岛与明珠",东森新闻美洲台
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/台视新闻台" group-title="宝岛与明珠",台视新闻台
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/中天综合台" group-title="宝岛与明珠",中天新闻
+http://194.87.101.118:9501/live.m3u8?c=1
+#EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/中天综合台" group-title="宝岛与明珠",中天亚洲
+http://194.87.101.118:9501/live.m3u8?c=3
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/中视新闻" group-title="宝岛与明珠",中视新闻
+http://194.87.101.118:9501/live.m3u8?c=6
+#EXTINF:-1 tvg-id="公视新闻" tvg-name="公视新闻" tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/公视" group-title="宝岛与明珠",公视新闻
+http://194.87.101.118:9501/live.m3u8?c=8
+#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/民视新闻台" group-title="宝岛与明珠",民视新闻台
+http://194.87.101.118:9501/live.m3u8?c=11
+#EXTINF:-1 tvg-id="亚洲新闻台(新加坡)" tvg-name="亚洲新闻台(新加坡)" tvg-logo="" group-title="宝岛与明珠",亚洲新闻台(新加坡)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
