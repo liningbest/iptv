@@ -58,9 +58,9 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlay
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="香港34台" tvg-name="香港34台" tvg-logo="http://nas.okayweb.cn:3011/tb/RTHK34.png" group-title="宝岛与明珠",香港34台
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="v.tools.yigechengzi.pro/prod/api/v1/tvg/logo/TVBS" group-title="宝岛与明珠",TVBS新闻
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/tvbs" group-title="宝岛与明珠",TVBS新闻
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="v.tools.yigechengzi.pro/prod/api/v1/tvg/logo/TVBS" group-title="宝岛与明珠",TVBS亚洲
+#EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/tvbs" group-title="宝岛与明珠",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 tvg-id="东森新闻美洲台" tvg-name="东森新闻美洲台" tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/东森新闻台" group-title="宝岛与明珠",东森新闻美洲台
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
