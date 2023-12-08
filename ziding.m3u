@@ -50,3 +50,13 @@ http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Dric足球" tvg-name="Dric足球" tvg-logo="" group-title="体育频道",Dric足球
 http://livetv.ktv.zone/23/play.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/民视新闻台" tvg-id="民视新闻台" tvg-name="民视新闻台" group-title="宝岛台湾",民视新闻台
+https://epg.pw/stream/f866e23f6d29ceb37ff1601f738e836c48e8913625622fcbb104ddb29fea454b.ctv
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/三立新闻台" tvg-id="三立新闻台" tvg-name="三立新闻台" group-title="宝岛台湾",三立新闻台
+https://epg.pw/stream/043e9ba5a69ed473708efc931ff9b35590d90f03f45bbeabe1899ef448ee59c6.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/东森新闻台" tvg-id="东森新闻台" tvg-name="东森新闻台" group-title="宝岛台湾",东森新闻台
+https://epg.pw/stream/0c1a2def94ba956a1cd2a6bd068abf307d3bdcafd911e111f88acc295a76b6e1.m3u8
+#EXTINF:-1,tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/中视新闻" tvg-id="中视新闻" tvg-name="中视新闻" group-title="宝岛台湾",中视新闻
+https://epg.pw/stream/a4ef46ca5a7026f79b4424642e6e0b1fa69ae93007284077e53ea607ddd351b9.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/台视新闻台" tvg-id="台视新闻台" tvg-name="台视新闻台" group-title="宝岛台湾",台视新闻台
+https://epg.pw/stream/4acb9a6c8a472aac28a3fd615726607ef653aba1ec1bd47a4b743365841661b9.m3u8
