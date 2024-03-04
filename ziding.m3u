@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/山东齐鲁" group-title="山东频道",山东齐鲁
 https://epg.pw/stream/9c157ca38c42b52f267f0889dd08e87d87b3e0b74b95d576dcee2124a26cd9e1.ctv
 #EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/山东体育" group-title="山东频道",山东体育
-rtmp://livealone.iqilu.com/iqilu/typdhjOF03kn
+http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/山东综艺" group-title="山东频道",山东综艺
 rtmp://livealone.iqilu.com/iqilu/zypdhjOF03kn
 #EXTINF:-1 tvg-id="山东农科" tvg-name="山东农科" tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/山东农科" group-title="山东频道",山东农科
@@ -27,7 +27,7 @@ http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/纬来体育台" group-title="体育频道",纬来体育台
 http://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 tvg-id="安徽综艺体育" tvg-name="安徽综艺体育" tvg-logo="https://live.fanmingming.com/tv/安徽综艺体育.png" group-title="体育频道",安徽综艺体育
-http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd？
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育频道",咪咕体育
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 #EXTINF:-1 tvg-id="KH_PNN体育" tvg-name="KH_PNN体育" tvg-logo="" group-title="体育频道",KH_PNN体育
