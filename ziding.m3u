@@ -13,7 +13,7 @@ rtmp://livealone.iqilu.com/iqilu/sepdhjOF03kn
 rtmp://livealone.iqilu.com/iqilu/shpdhjOF03kn
 #体育频道/27个频道
 #EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/山东体育" group-title="体育频道",山东体育
-http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.134.245.16:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 #EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="体育频道",五星体育
 https://itv.lat/tv/live.php?&line=1&id=wxty
 #EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="体育频道",劲爆体育
